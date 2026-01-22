@@ -1,0 +1,1 @@
+Repository for school exercises of the course Fundamentals of React.
