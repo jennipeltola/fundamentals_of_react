@@ -1,14 +1,14 @@
 // Fix this code to use let and const correctly instead of var:
 
-var name = "React";
+// var name = "React";
 
-name = "Next.js";
+// name = "Next.js";
 
-var age = 21;
+// var age = 21;
 
-age = 22;
+// age = 22;
 
-var birthYear = 2000;
+// var birthYear = 2000;
 
 // Solution:
 
