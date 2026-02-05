@@ -1,6 +1,6 @@
 import { useState } from "react"
 
-const Toggle = () => {
+const ToggleButton = () => {
     // click = the present value
     // setClick = function that handles the changes in the value
     // default state = false ("OFF")
@@ -19,4 +19,4 @@ const Toggle = () => {
     )
 }
 
-export default Toggle;
+export default ToggleButton;
