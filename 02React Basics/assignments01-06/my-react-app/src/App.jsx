@@ -1,6 +1,7 @@
 import Message from "./exercises/greeting"
 import ToggleButton from "./exercises/toggle"
 import NameForm from "./exercises/showInput"
+import TitleUpdater from "./exercises/titleUpdater"
 
 function App() {
   const greeting = "Welcome to React Basics Course"
@@ -11,6 +12,7 @@ function App() {
     <Message name="Jenni" />
     <ToggleButton />
     <NameForm />
+    <TitleUpdater />
   </div>
   )
 
