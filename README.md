@@ -6,6 +6,8 @@ Completed assignments 1-6
 
 ### 02 React basics
 
+Completed assignments 1-6
+
 ### 03 React Hooks
 
 ### 04 Component Architecture
