@@ -10,6 +10,8 @@ Completed assignments 1-6
 
 ### 03 React Hooks
 
+Completed assignments 1-4
+
 ### 04 Component Architecture
 
 ### 05 Routing & Forms
