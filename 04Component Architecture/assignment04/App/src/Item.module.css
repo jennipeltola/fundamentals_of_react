@@ -1,0 +1,6 @@
+.box {
+    padding: 10px;
+    background-color: grey;
+    border-style: dotted;
+    border-color: red;
+}
