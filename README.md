@@ -14,4 +14,6 @@ Completed assignments 1-4
 
 ### 04 Component Architecture
 
+Completed assignments 1-5
+
 ### 05 Routing & Forms
