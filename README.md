@@ -17,3 +17,7 @@ Completed assignments 1-4
 Completed assignments 1-5
 
 ### 05 Routing & Forms
+
+Completed assignments 1-3
+
+### Final Project
