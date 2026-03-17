@@ -1,0 +1,22 @@
+Fundamentals of React
+05 - Routing & Forms
+Assignment03 documentation
+
+The reason why I took the course was to learn more about React, because my
+skills were seriously lacking after one course in TAMK. I couldn't program 
+even simple apps without AI's help, so my goal was to fix that.
+
+My bachelor's thesis will focus on the importance of accessibility and 
+user experience for neuroatypical children by creating a web application of 
+learning games, which was also my motivation for the course and the practice 
+gained through the assignment. The app will include artwork from my autistic 
+6 year old daughter, who is also the main target for the purpose of the thesis. I used this assignment to experiment with some of her art and added different 
+colors and fonts on each of the pages to see which one she might have liked 
+the most.
+
+The biggest challenge for me was not to use AI tools as much as I've relied 
+on them previously. I mainly used AI for a couple of debugging issues, which 
+was a great improvement for me and with some online tutorials, I got to 
+rehearse CSS language as well. I still made a few mistakes and made some 
+styles global to simplify things, which taught me to try a better approach 
+on the final project assignment.

@@ -1,0 +1,14 @@
+.home {
+    background-color: rgb(254, 160, 160);
+    font-family: 'Lucida Sans';
+}
+
+.about {
+    background-color: aquamarine;
+    font-family: 'Bauhaus 93';
+}
+
+.contact {
+    background-color: lightskyblue;
+    font-family: 'Comic Sans MS';
+}

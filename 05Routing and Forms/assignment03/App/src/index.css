@@ -1,0 +1,36 @@
+/* General style */
+body {
+    text-align: center;
+}
+
+/* Global style for div elements */
+div {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Add space between lines */
+p {
+    line-height: 1.8;
+}
+
+/* Layout */
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
+
+/* Image styling */
+.content img {
+    width: 200px;
+    margin-left: -20px;
+}
+
+/* Content div -element styling */
+.content div {
+    max-width: 300px;
+    text-align: left;
+}
