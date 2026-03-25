@@ -10,7 +10,9 @@ const Home = () => {
             <p>The application was built with React, JavaScript and CSS as a
                 final project of Fundamentals of React course by Metropolia. To
                 add more visuals, NavLink was used instead of regular Link for
-                routing as a personal learning experiment.
+                routing as a personal learning experiment. The app was created
+                for desktop only, so it might not scale correctly on mobile
+                platforms.
             </p>
             <p>From the home page, the user can navigate to Contact List- page,
                 which shows the name and phone number of pre-existing and added
