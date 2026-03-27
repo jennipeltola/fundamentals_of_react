@@ -21,3 +21,9 @@ Completed assignments 1-5
 Completed assignments 1-3
 
 ### Final Project
+
+Completed
+
+### Exam
+
+Completed
